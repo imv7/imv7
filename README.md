@@ -64,7 +64,7 @@ systems to production applications.
 - **US 2022/0188213 A1**, Reinforcement learning selection of remediation scripts
 - **US 11,290,772 B2**, Simultaneous delivery of separate video streams
 - **US 11,117,794 B2**, Sensor-based fault detection in automated dispensing
-- Full details: [imv7.io](https://imv7.io)
+- Full details: [Google Scholar](https://scholar.google.com/citations?user=Di8ggkIAAAAJ&hl=en)
 
 ## Published XSS Work
 - XSS vulnerability, Exploit-DB EDB-ID 29814
